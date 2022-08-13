@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohit991
 - 👀 I’m interested in Software Engineering, Machine Learning and AI
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ML and AI Projects
+- 💞️ I’m looking to collaborate on all sorts of projects
 - 📫 You can connect on linkedin: mohit-sharma17
 
 <!---
