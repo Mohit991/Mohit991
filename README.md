@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a dedicated software developer with a passion 
 
 - I specialize in building **dynamic and interactive web applications** using the **MERN stack** (React, Node.js, Express, and SQL databases or MongoDB).  
 - Experienced in **ETL processes** with tools like **SSIS**, **Azure Data Factory(ADF)**, ensuring efficient and seamless data integration across enterprise systems.  
-- Proficient in modern frameworks like **Next.js**, enabling server-side rendering and optimized web performance.  
+- Proficient in modern frameworks like **React.js**, enabling server-side rendering and optimized web performance.  
 - Skilled in **cloud technologies** with hands-on experience in **Azure** and **Azure Data Factory**, leveraging cloud solutions for scalable and efficient deployments.  
 - My programming journey began with **C**, **C++**, and **Java**, later expanding to include **JavaScript** and **Python**, allowing me to tackle challenges with versatility.  
 - I work within **Agile environments**, utilizing tools like **Jira** to deliver high-quality solutions efficiently.
@@ -22,7 +22,8 @@ Welcome to my GitHub profile! I'm a dedicated software developer with a passion 
 ## 🔧 Skills  
 
 ### Languages  
-- **JavaScript**  
+- **JavaScript**
+- **TypeScript**  
 - **Python**  
 - **SQL**  
 
@@ -36,8 +37,7 @@ Welcome to my GitHub profile! I'm a dedicated software developer with a passion 
 ### Backend  
 - **Express**  
 - **Node.js**
-- **MySQL and SQL Server** 
-- **MongoDB**  
+- **MySQL and SQL Server, MongoDB**  
 - **ETL**  
 - **Docker**  
 
