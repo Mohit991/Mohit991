@@ -30,7 +30,8 @@ Welcome to my GitHub profile! I'm a dedicated software developer with a passion 
 ### Frontend  
 - **HTML**  
 - **CSS**  
-- **JavaScript**  
+- **JavaScript**
+- **TypeScript**  
 - **React** with **Redux**  
 - Familiar with **Next.js**  
 
